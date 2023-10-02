@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stunning-agency-308216",
+  "private_key_id": "8ef89ee8c53d23ed66e659d763787a55a05db59a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDU1q+gkwVgsAW4\nnEzboQdGPpjeqYKohv0fTfBMurBAxr4WO67/BvKwBtPeRV3ufM88efUdq90QsNwJ\n9kxdnYu+xPKOolLfRNR3RUuWwlsmtUNWCrYak0+4jKbcZwyAQKOBHxCYD6d/VJsX\nTz3hcAxqtG12PfIzj8FlxGHOMYXH2oQBrexpGBu56oOPThNPafmYM6vpO/X3FBE2\nBa8DOtZXMRTEbEQkZvbZa+Kv3gQruWXAmFVwhZ2He9X5ZwhAc0GMHXt+dK6WZQfD\nVJDRVJe24npzFfOtKOmsc/zNP10gG5UHiFdTuA8EJMkEuvRTaUcpGswUtqGmw5iS\nvTvBJKg1AgMBAAECggEAAPStcwZyyqJC7FDOkYy4EfGVaygn6fM6CMPaiLJ5hYwl\nVC4H1T8mCnKFZtg5GaleBUYA7hV6/fVLwtzkLxlv6rcX5cCtDmUECG/hubdJ6uZI\nFQdVFdDdvBTs0BmQXbUTAH3v66OwwcQfmPh/04oJ+QkYlfE/EkpneNPSCQSBtsnu\nbCEpzhX/3IMpkbIQ0zBjZlybcacEA3QfRxvKuHPIGA6eKnGQCxTPDxHvJuvlm3b0\nojO1z8PDuvcwzq5ZReLMl1vDi/Eqpserz1xa6UmlJZrz1EHCHi2IxnAukRhPNrmJ\nf5RRFsjhAKCo8cAHY5qTEzoVbivwvwLkAQ+pL/qrgQKBgQDqKFOE/fFe8hxM5YEZ\nNp1YXvgAHtYA1GxyAHX5plBTL/AJz660c9a0bL8yDz2r4BQqrq0Az0L/vLpW57xb\npBnGS7nT/gNxna9S8q2lOSpAcCDwQejIWT6UltkqV36JA62zd2y99HLwS11PBznF\nCzWREUxTDmmDbI2UZlk9UEbG9QKBgQDosUPYMlhzyfWiY3xSsCTBoDfs+nMfQ2rg\n22IaOne8ypqIE1W2GWxi44Dqr4ueATe3fzj/UYPF9A5UH1yZyqZ75bOtUxxur+H9\nrn8xJWG4kemcRu8VSfQdnHh1UWnsAKLsKTCtYLCPGiY6kZQGzhrwSROTrmI9f1U7\nGoB7qn0UQQKBgQDEYKui5qJugVhwuS2rKp2NRqBw4WuS6JRGi9JlXDETgymp4M5h\nMqFHUciLwDJ1mgjvvu0Ct9A10F7qkZDrvlWLc2jWvLrAp4EpbLNq1OV1g1Rsiqoi\nlI4iadyZYSWS3U3pLGg7au6WTm5j3+h4M61qC3raUUT2XqziX2/KNzAUnQKBgQDR\nuGq4YW/dNCoCKP41HHKUXM3q9TNq+v1KGhBKKWYfrs8mU57NmA5a9kcLvhns15Ya\n+TwqyZIliLidUwLHzaDNTBLr5Vtb24Ooe2xBpDp1+nR9mGUFX/j38z2SJ0V7Inu0\ns88ehGW9JElOQkUS+RHIfWR6lxIN8USlF1azns5KwQKBgBKKPs155AHXnanN9ui1\nHby+qqZpwaveYnO++P5pKZbY7RG4qaDKPHsT/dRPQbvYgy32Eipn0c62/45tpWwZ\nEbDVgKDEhmLSwInjbaz53yC3LfGd1E61Ag8mbU7EQUOi/YriHMnmwT6U3QGHAYzD\nnXLhZD4ABlDivYH2PkrPKDR7\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-acc@stunning-agency-308216.iam.gserviceaccount.com",
+  "client_id": "103747312952628548372",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-acc%40stunning-agency-308216.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
